@@ -13,13 +13,8 @@
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-    width="24px" 
-    style="vertical-align:middle;" 
-  />
   <a href="https://www.linkedin.com/in/andré-chersoni-leal-655570244" target="_blank">
-    Meu LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
   </a>
 </p>
 <a href="https://www.instagram.com/an_leal_" target="_blank">
