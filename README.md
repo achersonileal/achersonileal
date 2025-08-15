@@ -22,7 +22,7 @@
     Meu LinkedIn
   </a>
 </p>
-<a href="https://www.instagram.com/andrec.leal" target="_blank">
+<a href="https://www.instagram.com/an_leal_" target="_blank">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30px" />
 </a>
 
