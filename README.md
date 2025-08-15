@@ -67,8 +67,8 @@ Sou apaixonado por transformar dados e tecnologia em soluções que realmente fa
 
 _Aqui está meu plano de estudos para dominar as principais tecnologias e conceitos necessários para minha atuação como desenvolvedor e analista:_
 
-- ✅ Fundamentos de HTML e CSS  
-- ✅ JavaScript básico  
+- ⬜ Fundamentos de HTML e CSS  
+- ⬜ JavaScript básico  
 - ⬜ Python para análise de dados  
 - ⬜ Git e GitHub avançado  
 - ⬜ SQL e bancos de dados relacionais  
