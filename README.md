@@ -57,19 +57,63 @@ Agora, aplico essa mentalidade de impacto na área de tecnologia, focando em ino
 
 ## 🚀 Projetos em Destaque
 
-- [Agendamento Médico (CRUD)](https://github.com/achersonileal/agendamento-medico)  
-Sistema simples para agendamentos com HTML, CSS e JS, criado para facilitar a gestão de consultas em clínicas. [Demo aqui](https://achersonileal.github.io/agendamento-medico).  
-*Aprendizado:* Prática com manipulação DOM, CRUD básico e responsividade.
+### 📌 Projeto: [Agendamento Médico (CRUD)](https://github.com/achersonileal/agendamento-medico)
+Sistema simples para agendamentos com HTML, CSS e JS, criado para facilitar a gestão de consultas em clínicas.  
+🌐 [Ver Demo](https://achersonileal.github.io/agendamento-medico)
 
-- [Análise de Dados Clínicos](https://github.com/achersonileal/analise-dados-clinicos)  
-Visualização de gráficos e estatísticas com Python e pandas, focado em identificar padrões para apoiar decisões médicas.  
-*Aprendizado:* Tratamento de dados, uso do pandas e matplotlib.
+**Especificações Técnicas:**  
+Desenvolver um sistema simples de agendamento de consultas com cadastro, edição e exclusão de registros. Este foi meu primeiro projeto CRUD, com foco na prática da manipulação de DOM e armazenamento local.
 
-- [Página de Login Responsiva](https://github.com/achersonileal/pagina-login)  
-Front-end com layout responsivo, acessibilidade e suporte a temas escuros.  
-*Aprendizado:* Design responsivo, acessibilidade e temas dinâmicos.
+**Tecnologias utilizadas:**
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
+
+**O que aprendi:**
+- Manipulação do DOM: uso de seletores, eventos e atualização dinâmica da interface;  
+- Lógica de CRUD: implementação de criação, leitura, atualização e exclusão de dados;  
+- Armazenamento local: uso de `localStorage` para persistência de dados;  
+- Boas práticas de organização de código front-end.
 
 ---
+
+### 📌 Projeto: [Análise de Dados Clínicos](https://github.com/achersonileal/analise-dados-clinicos)
+Script para análise de dados clínicos fictícios, com visualização de gráficos e estatísticas úteis para apoio à decisão médica.
+
+**Especificações Técnicas:**  
+Criar um script em Python para ler, tratar e visualizar dados clínicos, aplicando fundamentos de análise de dados e visualização gráfica.
+
+**Tecnologias utilizadas:**
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook
+
+**O que aprendi:**
+- Leitura e manipulação de dados com `pandas`;  
+- Criação de gráficos com `matplotlib` para facilitar a análise visual;  
+- Limpeza e transformação de dados para análise;  
+- Organização e apresentação clara de insights em notebooks.
+
+---
+
+### 📌 Projeto: [Página de Login Responsiva](https://github.com/achersonileal/pagina-login)
+Front-end com layout responsivo, acessibilidade e suporte a temas escuros.
+
+**Especificações Técnicas:**  
+Construção de uma interface de login com foco em responsividade, boas práticas de HTML semântico e interação com JavaScript.
+
+**Tecnologias utilizadas:**
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
+
+**O que aprendi:**
+- Design responsivo com media queries e Flexbox;  
+- Alternância de temas (modo claro/escuro) com JavaScript;  
+- Acessibilidade: uso de HTML semântico e atributos para navegação por leitores de tela;  
+- Animações e transições suaves para melhor experiência do usuário.
+
 
 ## 🧭 Meu Roadmap de Aprendizado
 
