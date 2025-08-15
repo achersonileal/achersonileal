@@ -95,25 +95,6 @@ Criar um script em Python para ler, tratar e visualizar dados clínicos, aplican
 - Limpeza e transformação de dados para análise;  
 - Organização e apresentação clara de insights em notebooks.
 
----
-
-### 📌 Projeto: [Página de Login Responsiva](https://github.com/achersonileal/pagina-login)
-Front-end com layout responsivo, acessibilidade e suporte a temas escuros.
-
-**Especificações Técnicas:**  
-Construção de uma interface de login com foco em responsividade, boas práticas de HTML semântico e interação com JavaScript.
-
-**Tecnologias utilizadas:**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
-
-**O que aprendi:**
-- Design responsivo com media queries e Flexbox;  
-- Alternância de temas (modo claro/escuro) com JavaScript;  
-- Acessibilidade: uso de HTML semântico e atributos para navegação por leitores de tela;  
-- Animações e transições suaves para melhor experiência do usuário.
-
 
 ## 🧭 Meu Roadmap de Aprendizado
 
