@@ -6,7 +6,9 @@
 
 💻 Em formação em Análise e Desenvolvimento de Sistemas e com especialização em Informática em Saúde, busco unir conhecimento clínico e inovação tecnológica para melhorar o cuidado centrado no paciente.
 
-📌 Busco desafios na área de produtos digitais em saúde, healthtechs e análise de dados.
+📌 Interesse especial em produtos digitais em saúde, healthtechs, transformação digital e análise de dados clínicos.
+
+🌱 Acredito na tecnologia como ferramenta para inclusão, equidade no acesso à saúde e sustentabilidade dos sistemas de cuidado. Estou em constante aprendizado e motivado por ambientes colaborativos, éticos e orientados por propósito.
 
 ---
 
@@ -16,21 +18,56 @@
   <a href="https://www.linkedin.com/in/andré-chersoni-leal-655570244" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/an_leal_" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30px" />
+  </a>
 </p>
-<a href="https://www.instagram.com/an_leal_" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30px" />
-</a>
 
 ---
 
 ### 🧠 Tecnologias que estou estudando
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- [Agendamento Médico (CRUD)](https://github.com/achersonileal/agendamento-medico) — Sistema simples para agendamentos com HTML, CSS e JS.
+- [Análise de Dados Clínicos](https://github.com/achersonileal/analise-dados-clinicos) — Gráficos e estatísticas com Python e pandas.
+- [Página de Login Responsiva](https://github.com/achersonileal/pagina-login) — Projeto front-end com layout responsivo e boas práticas.
+
+---
+
+### 🧭 Meu Roadmap de Aprendizado
+
+- [ ] Fundamentos de HTML e CSS  
+- [ ] JavaScript básico  
+- [ ] Python para análise de dados  
+- [ ] Git e GitHub avançado  
+- [ ] SQL e bancos de dados relacionais  
+- [ ] React.js  
+- [ ] Desenvolvimento de APIs (REST)  
+- [ ] Integração com sistemas de saúde (HL7 / FHIR)  
+
+---
+
+### 🎯 Objetivo Atual
+
+Atualmente, estou focado em consolidar meus conhecimentos em desenvolvimento web e análise de dados clínicos, com o objetivo de contribuir para soluções tecnológicas que melhorem a qualidade da assistência em saúde.
+
+---
+
+### 📬 Contato
+
+📧 a.chersonileal@gmail.com
+📄 [Currículo em PDF](https://linkdocurriculo.com)
 
 ---
 
