@@ -1,5 +1,11 @@
 # 👋 Olá, eu sou André Chersoni Leal
 
+---
+
+> ⚠️ **Aviso:** Este README foi criado como parte de uma atividade de aprendizado. Ainda estou construindo meus projetos e experiências na área de tecnologia. Em breve, adicionarei novas contribuições e desenvolvimentos ao portfólio.
+
+---
+
 ## 🚀 Futuro Analista e Desenvolvedor de Sistemas
 
 🏥 Enfermeiro com sólida experiência em ambientes críticos, atualmente em transição para a área de tecnologia da informação aplicada à saúde.
