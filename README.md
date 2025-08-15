@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou André Chersoni Leal
+# André Chersoni Leal - Perfil Profissional & Portfólio
 
 ---
 
@@ -58,13 +58,16 @@ Agora, aplico essa mentalidade de impacto na área de tecnologia, focando em ino
 ## 🚀 Projetos em Destaque
 
 - [Agendamento Médico (CRUD)](https://github.com/achersonileal/agendamento-medico)  
-Sistema simples para agendamentos com HTML, CSS e JS, criado para facilitar a gestão de consultas em clínicas. [Demo aqui](https://achersonileal.github.io/agendamento-medico).
+Sistema simples para agendamentos com HTML, CSS e JS, criado para facilitar a gestão de consultas em clínicas. [Demo aqui](https://achersonileal.github.io/agendamento-medico).  
+*Aprendizado:* Prática com manipulação DOM, CRUD básico e responsividade.
 
 - [Análise de Dados Clínicos](https://github.com/achersonileal/analise-dados-clinicos)  
-Visualização de gráficos e estatísticas com Python e pandas, focado em identificar padrões para apoiar decisões médicas.
+Visualização de gráficos e estatísticas com Python e pandas, focado em identificar padrões para apoiar decisões médicas.  
+*Aprendizado:* Tratamento de dados, uso do pandas e matplotlib.
 
 - [Página de Login Responsiva](https://github.com/achersonileal/pagina-login)  
-Front-end com layout responsivo, acessibilidade e suporte a temas escuros.
+Front-end com layout responsivo, acessibilidade e suporte a temas escuros.  
+*Aprendizado:* Design responsivo, acessibilidade e temas dinâmicos.
 
 ---
 
@@ -137,3 +140,4 @@ Aberto a oportunidades em healthtechs, projetos open-source na área de saúde e
 ## 💡 Inspiração
 
 > _“A tecnologia é melhor quando une as pessoas.”_ — Matt Mullenweg
+
