@@ -14,15 +14,7 @@
 
 ### 🙋‍♂️ Sobre Mim
 
-Sou apaixonado por transformar dados e tecnologia em soluções que realmente façam a diferença na saúde. Motivado por aprender e colaborar, acredito que inovação é a chave para um cuidado mais humano e eficiente. Durante minha carreira como enfermeiro, implementei protocolos que reduziram o tempo de espera em 20% em um hospital de alta complexidade, e agora busco aplicar essa mentalidade de impacto na tecnologia.
-
----
-
-### 🎬 Um pouco do meu universo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Animação de um laptop com código sendo digitado" width="300" />
-</p>
+Sou apaixonado por transformar dados e tecnologia em soluções que realmente façam a diferença na saúde. Motivado por aprender e colaborar, acredito que inovação é a chave para um cuidado mais humano e eficiente. Durante minha carreira como enfermeiro, implementei protocolos que reduziram o tempo de espera em 20% em um hospital de alta complexidade, e agora busco aplicar essa mentalidade de impacto na tecnologia.=
 
 ---
 
@@ -101,21 +93,17 @@ Estou aberto a oportunidades em healthtechs, projetos open-source na área de sa
 
 ---
 
-### 📊 Estatísticas GitHub
+> ### 📊 Estatísticas GitHub
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=achersonileal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="180" alt="Estatísticas do GitHub de André Chersoni Leal"
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=achersonileal&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+</div>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=achersonileal&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-    height="180" alt="Principais linguagens usadas por André Chersoni Leal"
-  />
-</p>
+
+---
+### 🎯 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=achersonileal&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
@@ -144,3 +132,4 @@ Estou aberto a oportunidades em healthtechs, projetos open-source na área de sa
 ### 💡 Inspiração
 
 > _“A tecnologia é melhor quando une as pessoas.”_ — Matt Mullenweg
+>
