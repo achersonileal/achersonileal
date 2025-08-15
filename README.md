@@ -22,7 +22,16 @@
     Meu LinkedIn
   </a>
 </p>
-
+<p align="left">
+  <a href="https://www.instagram.com/https://www.instagram.com/an_leal_/?next=%2F" target="_blank">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" 
+      width="24px" 
+      style="vertical-align:middle;" 
+    />
+    Instagram
+  </a>
+</p>
 ---
 
 ### 🧠 Tecnologias que estou estudando
